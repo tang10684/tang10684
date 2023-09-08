@@ -2,7 +2,7 @@
 - 👀 I’m interested in eating
 - 🌱 I’m currently learning Japanese
 - 💞️ I’m looking to collaborate on twitter
-- 📫 How to reach me ...
+- 📫 How to reach me here :my hotmail
 
 <!---
 tang10684/tang10684 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
